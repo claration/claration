@@ -7,7 +7,6 @@
   * Email: `echo 'Zmxvd2VyQHBhbGVyYS5pbg==' | base64 -d`
 
  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/khcrysalis)
- [![Discord](https://img.shields.io/discord/1265361879992242196?style=flat&label=discord)](https://discord.gg/TYnUDJkG66)
 #
 
 Feel free to check out the projects below, sometimes the words aren't enough
