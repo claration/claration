@@ -2,8 +2,6 @@
 * Developer for darwin platforms
 * Designer of some sorts
 * Using `Swift`, `Rust`, `/(?:obj)?c(?:\+\+)?/`, `Typescript`
-* Contact:
-  * [Signal](https://signal.me/#eu/92pjn8hSmI9wPUX_hJ0ZaOmCIOxS_FSaVB8KthR_IGUgxLDvZ-NGr6_jkJSlD_qo)
 
  [![](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/khcrysalis)
 #
