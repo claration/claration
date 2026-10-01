@@ -3,15 +3,15 @@
     <br/>
     ======== Languages =======>
     <br/>
-    language&nbsp;&nbsp;&nbsp;&nbsp;[==== confidence ====] :: used for
+    language&nbsp;&nbsp;&nbsp;[==== confidence ====] :: used for
     <br/>
-    typescript&nbsp;&nbsp;[##>=================] :: websites (astro)
+    typescript [##>=================] :: websites (astro)
     <br/>
-    c/cpp/objc&nbsp;&nbsp;[####>===============] :: apps
+    c/cpp/objc [####>===============] :: apps
     <br/>
-    swift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#################>==] :: apps, apis
+    swift&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#################>==] :: apps, apis
     <br/>
-    rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#########>==========] :: apps
+    rust&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[#########>==========] :: apps
     <br/>
     ========&nbsp;&nbsp;Socials&nbsp;&nbsp;=======>
     <br/>
