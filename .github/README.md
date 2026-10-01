@@ -1,6 +1,4 @@
 <samp>
-    ======== Claration =======>
-    <br/>
     Lots of native programming, games, and all sorts of designing!
     <br/>
     ======== Languages =======>
