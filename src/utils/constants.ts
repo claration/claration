@@ -72,6 +72,10 @@ export const X_ARRAY: Friend[] = [
         site: "https://nin0.dev",
         image: "./88x31/nino.png",
     },
+    {
+        site: "https://jadestone.dev",
+        image: "https://jadestone.dev/88x31.gif"
+    }
 ];
 
 // MARK: REPOS
