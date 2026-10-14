@@ -75,6 +75,10 @@ export const X_ARRAY: Friend[] = [
     {
         site: "https://jadestone.dev",
         image: "https://jadestone.dev/88x31.gif"
+    },
+    {
+        site: "https://azee.sh",
+        image: "./88x31/azee.png",
     }
 ];
 
