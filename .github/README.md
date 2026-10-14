@@ -1,5 +1,5 @@
 <samp>
-    Lots of native programming, games, and all sorts of designing!
+    lots of native programming, games, and all sorts of designing!
     <br/>
     ======== Languages =======>
     <br/>
@@ -22,5 +22,9 @@
     website => <a href="https://claration.dev">claration.dev</a>
     <br/>
     mail&nbsp;&nbsp;&nbsp;&nbsp;=> <a href="mailto:claration@riseup.net">claration@riseup.net</a>
+    <br/>
+    ==========================>
+    <br/>
+    check out my projects below, would mean a lot c:
 </samp>
 <!--- inspired by kissalexandra & kyu.re --->
