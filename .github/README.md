@@ -15,7 +15,7 @@
     <br/>
     ========&nbsp;&nbsp;Socials&nbsp;&nbsp;=======>
     <br/>
-    twitter => <a href="https://twitter.com/khcrysalis">khcrysalis</a> [name to be changed]
+    twitter => <a href="https://twitter.com/noitaralc">noitaralc</a>
     <br/>
     discord => <a href="#">claration</a>
     <br/>
