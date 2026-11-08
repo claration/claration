@@ -1,36 +1,46 @@
 ---
+
 ---
 
 <!doctype html>
 <html lang="en">
     <head>
-        <script id="discord:component-embed" type="application/json" set:html={JSON.stringify({
-            component: {
-                type: 17,
-                components: [
-                    {
-                        type: 9,
-                        components: [
-                            {
-                                type: 10,
-                                content: `# You got a promotion code!\nThis gift link is a promotion code. Click the button below to claim it.`
-                            }
-                        ],
-                        accessory: {
-                            type: 11,
-                            media: {
-                                url: "https://media.discordapp.net/attachments/764113682598723584/854854416108355614/EmSIbDzXYAAb4R7.png?ex=6aaf10b7&is=6aadbf37&hm=eed1a7521097c7ced916c025002c752b633cd85f1080fb02cc2551dcbaf595ed&=&format=webp&quality=lossless"
-                            }
-                        }
-                    },
-                    {
-                        type: 1,
-                        components: [
-                            { type: 2, style: 5, url: "https://discord.gg/mp8ZBAWVx", label: "Accept" },
-                        ]
-                    }
-                ]
-            }
-        })} />
+        <script
+            id="discord:component-embed"
+            type="application/json"
+            set:html={JSON.stringify({
+                component: {
+                    type: 17,
+                    components: [
+                        {
+                            type: 9,
+                            components: [
+                                {
+                                    type: 10,
+                                    content: `# You got a promotion code!\nThis gift link is a promotion code. Click the button below to claim it.`,
+                                },
+                            ],
+                            accessory: {
+                                type: 11,
+                                media: {
+                                    url: "https://media.discordapp.net/attachments/764113682598723584/854854416108355614/EmSIbDzXYAAb4R7.png?ex=6aaf10b7&is=6aadbf37&hm=eed1a7521097c7ced916c025002c752b633cd85f1080fb02cc2551dcbaf595ed&=&format=webp&quality=lossless",
+                                },
+                            },
+                        },
+                        {
+                            type: 1,
+                            components: [
+                                {
+                                    type: 2,
+                                    style: 5,
+                                    url: "https://discord.gg/mp8ZBAWVx",
+                                    label: "Accept",
+                                },
+                            ],
+                        },
+                    ],
+                },
+            })}
+        />
     </head>
 </html>
